@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Praveen Peiris.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Artificial Intelligence & Data Science in Informatics Institute of Technology.
+- 📫 Reach me through 69jigen69@gmail.com
