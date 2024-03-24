@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Praveen Peiris.
-- 👀 I’m interested in Programming and Data Science.
+- 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Artificial Intelligence & Data Science in Informatics Institute of Technology, Sri Lanka in affiliation with Robert Gordon University, Aberdeen.
 - 📫 Reach me through peirispraveenplay@gmail.com
